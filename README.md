@@ -2,6 +2,6 @@
 
 Spring boot application 
 
-##Endpoints:
+## Endpoints:
 
 - POST `/processData` receives an array of integers
